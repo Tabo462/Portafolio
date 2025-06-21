@@ -32,7 +32,7 @@ A basic TCP port scanner written in Python. It scans a custom port range on a sp
 ---
 
 ## ✉️ Contact
-- [LinkedIn](www.linkedin.com/in/carlos-taboada-vivian-17aa552a5)
+- LinkedIn: www.linkedin.com/in/carlos-taboada-vivian-17aa552a5
 - Email: tabopersonal@gmail.com
 
 ---
