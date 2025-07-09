@@ -6,12 +6,14 @@ Hi! I'm Carlos, an incoming ITC (Computer Technologies and Engineering) student 
 
 ## 🔬🔬 Current Projects
 
-### 🔍👁️ TCP Port Scanner
-A basic TCP port scanner written in Python. It scans a custom port range on a specified IPv4 address and prints which ports are open.
+### 🎯🧠 Educational Keylogger
+A keylogger developed in Python as part of my red team learning path. It logs all user keystrokes, tracks active window changes, and sends the data to a webhook — **strictly for educational and ethical purposes**.
 
-✅ Uses simple/raw sockets  
-✅ Lightweight and easy to understand. (It includes comments)  
-✅ Beginner-friendly and fully functional from the terminal
+✅ Detects active window titles  
+✅ Interprets special keys like [COPY], [PASTE], [ENTER], etc.  
+✅ Sends logs after a certain threshold (e.g. 200 characters)  
+✅ Clean and commented code, easy to understand  
+✅ Useful to understand how keylogging and data exfiltration work
 
 ---
 
